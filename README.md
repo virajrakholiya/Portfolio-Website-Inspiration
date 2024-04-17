@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Uploading screencapture-localhost-3000-2024-04-17-22_24_37.png…]()
 
-## Getting Started
+# Creative Portfolio
 
-First, run the development server:
+This project is a creative portfolio website showcasing the work and skills of Viraj Rakholiya, a highly skilled and experienced creative designer.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About](#about)
+- [Components](#components)
+  - [About](#about-component)
+  - [GridImage](#gridimage-component)
+  - [Herotext](#herotext-component)
+  - [Navbar](#navbar-component)
+  - [Contact](#contact-component)
+- [Usage](#usage)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The project consists of various components that contribute to building a dynamic and visually appealing portfolio website. Below are the details of each component:
 
-## Learn More
+## Components
 
-To learn more about Next.js, take a look at the following resources:
+### About Component
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The About component displays a brief introduction of Viraj Rakholiya, highlighting his skills and experience in branding, graphic design, and visual communication. It includes a button to learn more about Viraj.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### GridImage Component
 
-## Deploy on Vercel
+The GridImage component showcases selected works in a grid layout. It dynamically renders images along with their respective names, providing a visually engaging presentation of Viraj's portfolio.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Herotext Component
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The Herotext component serves as the hero section of the website, welcoming visitors with a creative message and introducing Viraj as a designer. It includes animated text and images to create a captivating introduction.
+
+### Navbar Component
+
+The Navbar component provides navigation functionality for the website. It includes menu items for accessing different sections like Work, Case Study, About, and Contact. It also features a responsive hamburger menu for smaller screens.
+
+### Contact Component
+
+The Contact component encourages visitors to connect with Viraj by displaying a message prompting collaboration. It includes a button to initiate contact and showcases images related to the message.
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository: `git clone [https://github.com/virajrakholiya/Portfolio-Website-Inspiration.git]`
+2. Navigate to the project directory: `cd Portfolio-Website-Inspiration`
+3. Install dependencies: `npm install`
+4. Run the development server: `npm run dev`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
