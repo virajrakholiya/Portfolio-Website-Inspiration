@@ -33,7 +33,7 @@ function Herotext() {
           />
           <h1 className="text-2xl font-medium ">
             Hello, <br />
-            I'm Viraj
+            I&apos;m Viraj
           </h1>{" "}
         </div>
         <h1

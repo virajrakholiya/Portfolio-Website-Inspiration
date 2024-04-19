@@ -32,7 +32,7 @@ function Contect() {
       <div className="relative flex h-screen items-center justify-center max-lg:h-[50vh]">
         <div className="translate-y-5 text-center opacity-0" id="Text">
           <h1 className="text-center text-5xl">
-            Let's Create <br />
+            Let&apos;s Create <br />
             Something Great
           </h1>
           <button className="mt-7 border border-white bg-white p-3 px-5 text-main transition-colors duration-300 hover:bg-black hover:text-white">
